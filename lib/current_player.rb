@@ -1,4 +1,4 @@
 def turn_count(move)
-  move = 0 
-  if turn_count
+  turn = 0 
+  move.each do 
   
